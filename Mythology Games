@@ -1,5 +1,4 @@
 from tkinter import *
-#Ask PRimordial, 12 Olypians, Titan, or Armies SHould have 5 main screens
 window0 = Tk()
 window0.title('Sell')
 window0.geometry("1000x700") 
